@@ -3,9 +3,9 @@
 import requests
 import base64
 
-# Spotify APi client ID and Secret
-CLIENT_ID = 'ff7ae1d40ab847f1820c684a813905b6'
-CLIENT_SECRET = '89f773b8beff424d93c8134e9f7ecb20'
+# Replace With your own Client ID and Client secret
+CLIENT_ID = 'your-client-id'
+CLIENT_SECRET = 'your-client-secret'
 
 # Base64 encode the client ID and client secret
 client_credentials = f"{CLIENT_ID}:{CLIENT_SECRET}"
