@@ -69,7 +69,8 @@ def get_trending_playlist_data(playlist_id, access_token):
 
     return df
 
-playlist_id = '5iedSqwc23IE1OSCA30PRk?si=940db60f8e104c42'
+# Replace with your own playlist id
+playlist_id = 'your-playlist-id'
 
 # Call the function to get the music data from the playlist and store it in a DataFrame
 music_df = get_trending_playlist_data(playlist_id, access_token)
