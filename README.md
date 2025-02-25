@@ -1,4 +1,3 @@
 # Spotify-song-reccomendation-and-playlist-creator
-Looks at users listening preferences based on an input playlist and reccomends songs similar to an input song
-
+This model takes a spotify playlist and a specified song as inputs and reccomends similar songs in the playlist 
 
